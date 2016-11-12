@@ -1,0 +1,18 @@
+.page-header{
+	margin-top:15px;
+}
+.board{
+	width:570px;
+}
+.item{
+	width: 128px;
+	height: 128px;
+	background:#001f3f;
+	border:2px solid #ebebeb;
+	margin-right:10px;
+	margin-bottom:10px;
+	float:left;
+}
+.row:hover{
+	cursor:pointer;
+}
